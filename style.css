@@ -4,7 +4,7 @@ html{
 
 #theDiv{
     margin-left: 25%;
-    margin-top: 5%;
+    margin-top: 0;
     margin-bottom: 0;
 
 
@@ -14,6 +14,7 @@ html{
 
 img{
     border: solid 5px white;
+    margin-top: 5%;
 
     width: 100%;
 }
